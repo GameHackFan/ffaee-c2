@@ -1,0 +1,4 @@
+Version 1.0 Change:
+- Cloned FFAEE editor and renamed it to FFAEE-C2.
+- Made all necessary changes so the tool could work properly for the FFAE CPS2.
+- Minor changes and fixes.
